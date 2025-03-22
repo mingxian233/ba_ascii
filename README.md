@@ -7,5 +7,5 @@ Only available on Windows Platform
 2. Run run_converter.bat
 3. Use JDK(javac and java) to compile and interpret source code, then you will see the ascii printset of Bad Apple!!
 
-Touhou Saigo.
+Touhou Forever.
 
